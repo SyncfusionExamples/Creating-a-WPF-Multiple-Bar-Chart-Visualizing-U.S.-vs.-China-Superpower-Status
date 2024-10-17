@@ -20,4 +20,4 @@ This article demonstrates how to create a WPF multiple bar chart to compare and 
 ### Path too long exception:
 If you encounter a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For a step-by-step procedure, refer to the [Which Country is the World’s #1 Superpower? blog]().
+For a step-by-step procedure, refer to the [Which Country is the World’s #1 Superpower? blog](https://www.syncfusion.com/blogs/post/wpf-multi-barchart-for-us-china-superpower-status).
